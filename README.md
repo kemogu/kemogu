@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **React and Node.js**
 
+- 🌱 I’m currently learning **Spring and .Net frameworks**
+
 - 📝 I regularly write articles on [https://medium.com/@kemaloguzhanyeyit](https://medium.com/@kemaloguzhanyeyit)
 
 - 📫 How to reach me **kemaloguzhanyeyit@gmail.com**
