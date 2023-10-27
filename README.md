@@ -8,12 +8,14 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kemogu?theme=unicorn)](https://leetcode.com/kemogu/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="left">
+   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://linkedin.com/in/kemal-oğuzhan-yeyit-212924182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemal oguzhan yeyit" height="30" width="40" /></a>
 <a href="https://medium.com/@kemaloguzhanyeyit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kemaloguzhanyeyit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kemogu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kemaloguzhanyeyit" height="30" width="40" /></a>
 <a href="https://github.com/kemogu"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
+
 # 💻 Languages and Tools:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
