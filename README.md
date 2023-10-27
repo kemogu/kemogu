@@ -11,9 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kemal-oğuzhan-yeyit-212924182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemal oguzhan yeyit" height="30" width="40" /></a>
+<a href="https://twitter.com/oguzhanyeyit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhanyeyit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kemal oğuzhan yeyit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemal oğuzhan yeyit" height="30" width="40" /></a>
+<a href="https://instagram.com/oguzhanyeyit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhanyeyit" height="30" width="40" /></a>
 <a href="https://medium.com/@kemaloguzhanyeyit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kemaloguzhanyeyit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kemogu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kemaloguzhanyeyit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kemogu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kemogu" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools:
