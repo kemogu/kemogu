@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React** and **Node.js**
 
-- 🌱 I’m currently learning **Spring and .Net frameworks**
+- 🌱 I’m currently learning **Spring and .Net Core**
 
 - 📫 How to reach me **kemlaoguzhanyeyit@gmail.com**
 
