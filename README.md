@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kemlaoguzhanyeyit@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kemogu?theme=unicorn)](https://leetcode.com/kemogu/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kemogu?theme=horse)](https://leetcode.com/kemogu/)
 
 <h3 align="left">Social Medias:</h3>
 <p align="left">
