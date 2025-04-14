@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kemal Oğuzhan Yeyit</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working on **c++*
 
-- 🌱 I’m currently learning **Data Science and ML**
+- 🌱 I’m currently learning **System Design and Design Patterns**
 
 - 📫 How to reach me **kemlaoguzhanyeyit@gmail.com**
 
